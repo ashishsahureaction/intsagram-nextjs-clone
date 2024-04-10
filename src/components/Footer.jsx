@@ -47,6 +47,7 @@ const Footer = () => {
 				<a rel="noopener noreferrer" href="#">Discord</a>
 				<a rel="noopener noreferrer" href="#">Twitter</a>
 				<a rel="noopener noreferrer" href="#">YouTube</a>
+				<a rel="noopener noreferrer" href="#">YouTube</a>
 			</div>
 		</div>
 	</div>
