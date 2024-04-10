@@ -14,7 +14,9 @@ const firebaseConfig = {
 };
 
 // Initialize Firebase
-export const app = initializeApp(firebaseConfig);
+const app = initializeApp(firebaseConfig);
+
+export { app };
 
 // service firebase.storage {
 //     match /b/{bucket}/o {
