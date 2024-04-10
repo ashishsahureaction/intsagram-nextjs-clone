@@ -11,7 +11,7 @@ import {
 } from 'firebase/firestore';
 import { useSession } from 'next-auth/react';
 import { useEffect, useState } from 'react';
-import { app } from '../firebase';
+import { app } from '@/firebase';
 import Moment from 'react-moment';
 
 export default function CommentSection({ id }) {
